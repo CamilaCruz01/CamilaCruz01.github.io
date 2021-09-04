@@ -1,0 +1,93 @@
+body {
+    background-color:slategrey;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    
+}
+
+
+header {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+    height: 200px;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+nav {
+         margin: 0;
+        padding: 0;
+        font-size: 30px;
+    ul{ 
+        display: inline-block;
+        a {
+            
+        color: red;
+        font-size: 50px;
+        text-align: center
+        
+        }
+    }
+}
+.header__logo {
+    float: none;
+    img {
+        width: 400px;
+        height: 150px;
+        background-size: cover;
+        margin: 0px; 
+        float:left
+    }
+}
+
+.titulo {
+    color: black;
+    height: 100px;
+    background:rgb(156, 63, 63);
+    font-style:normal;
+    font-family: cursive;
+    font-size: 10px;
+    text-align:center;
+    display: flex;
+    position:static
+    float;margin-left: 10px;
+    height: 200px;
+    background: position 100px;
+    background-color: rgb(43, 85, 85);
+}
+.promo { font-size: 80px;
+    color: black;
+    background:chocolate;
+    
+    
+
+        .main { color: blue;
+            height: 40px;
+            font-family: fantasy;
+            font-size: 40px;
+            float: left;
+            float: right;
+        }
+    
+}
+    .vendido { font-size: 80px;
+        color:black;
+        background-color:rosybrown;
+        height: 120px;
+        font-family:'Dancing Script', cursive;
+
+    }
+ .box-model {
+    border: 100px solid #000 ;
+    background-color: rgb(39, 79, 114);
+    padding: 100px;
+    margin: 80px;
+
+ }
